@@ -156,4 +156,15 @@ tools/
 
 ---
 
+## Contributors
+
+The codebase (excluding `trial_sequencer.py`) was written by the original UW Undergraduate Symposium team:
+
+- **[Jae-Lee-Tho](https://github.com/Jae-Lee-Tho)** — primary codebase author
+- **[Samshin](https://github.com/Samshin)** — primary codebase author
+
+Source repository: [Jae-Lee-Tho/MultiDrone](https://github.com/Jae-Lee-Tho/MultiDrone)
+
+---
+
 Portfolio: [khoy2k.github.io](https://khoy2k.github.io)
