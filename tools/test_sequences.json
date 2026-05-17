@@ -1,0 +1,42 @@
+{
+  "tests":[
+    {
+      "name": "Level 1 - Easy (Baseline)",
+      "sequence": [
+        "FORWARD",
+        "BACKWARD"
+      ]
+    },
+    {
+      "name": "Level 2 - Medium (Repeated)",
+      "sequence":[
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "Level 3 - Hard (Box Pattern)",
+      "sequence":[
+        "FORWARD",
+        "LEFT",
+        "BACKWARD",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "Level 4 - Expert (Fatigue & Precision)",
+      "sequence":[
+        "FORWARD",
+        "RIGHT",
+        "FORWARD",
+        "LEFT",
+        "BACKWARD",
+        "RIGHT",
+        "BACKWARD",
+        "LEFT"
+      ]
+    }
+  ]
+}

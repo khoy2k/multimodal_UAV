@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+results/
+*.jsonl
+flight_log_*.jsonl
+vosk-model-*/

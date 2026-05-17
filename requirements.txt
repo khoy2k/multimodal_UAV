@@ -1,0 +1,10 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+pylsl>=1.16
+pyserial>=3.5
+sounddevice>=0.4.6
+vosk>=0.3.44
+pynput>=1.7
+matplotlib>=3.7
+pandas>=2.0
